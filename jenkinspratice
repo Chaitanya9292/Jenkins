@@ -1,0 +1,5 @@
+print("hello world")
+m = "hey hi buddy ela vunaru"
+i = "Ha bagunanu buddy"
+print(m)
+print(i)
